@@ -1,0 +1,2 @@
+model_path: "best.pt" #path to yolov5 model
+video_source: 0 #0 for webcam and path to video file
