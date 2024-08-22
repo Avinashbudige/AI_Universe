@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: object-detection
+Version: 0.1.0
+Summary: Real-time object detection using edge devices with models like YOLOv5.
+Home-page: https://github.com/yourusername/object-detection
+Author: Your Name
+Author-email: your.email@example.com
+Requires-Python: >=3.6
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+Requires-Dist: torch
+Requires-Dist: tensorflow
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: pyyaml
+Requires-Dist: requests
+Requires-Dist: fastapi
+Requires-Dist: uvicorn

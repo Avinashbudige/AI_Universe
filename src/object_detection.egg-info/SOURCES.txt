@@ -1,0 +1,6 @@
+setup.py
+src/object_detection.egg-info/PKG-INFO
+src/object_detection.egg-info/SOURCES.txt
+src/object_detection.egg-info/dependency_links.txt
+src/object_detection.egg-info/requires.txt
+src/object_detection.egg-info/top_level.txt

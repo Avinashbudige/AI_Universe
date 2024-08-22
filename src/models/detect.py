@@ -1,5 +1,5 @@
 #importing the libraries
-from utilss import load_model
+from proper_project_mantainance.object_detection.src.models.utilss import load_model
 import torch 
 import yaml 
 import cv2  

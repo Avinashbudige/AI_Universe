@@ -1,0 +1,11 @@
+numpy
+opencv-python
+torch
+tensorflow
+pandas
+matplotlib
+scikit-learn
+pyyaml
+requests
+fastapi
+uvicorn
